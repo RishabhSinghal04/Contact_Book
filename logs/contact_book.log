@@ -1,0 +1,215 @@
+2026-03-20 19:24:58 - INFO - Created new storage file: data\contacts.json
+2026-03-20 19:24:58 - DEBUG - Executing _load_contacts
+2026-03-20 19:24:58 - INFO - Loaded 0 contacts from storage
+2026-03-20 19:24:58 - DEBUG - Completed _load_contacts
+2026-03-20 19:25:28 - DEBUG - Executing _load_contacts
+2026-03-20 19:25:28 - INFO - Loaded 0 contacts from storage
+2026-03-20 19:25:28 - DEBUG - Completed _load_contacts
+2026-03-20 19:29:24 - DEBUG - Executing add
+2026-03-20 19:29:24 - DEBUG - Executing _validate_contact
+2026-03-20 19:29:24 - DEBUG - Completed _validate_contact
+2026-03-20 19:29:24 - DEBUG - Executing save_all
+2026-03-20 19:29:24 - INFO - Saved 1 contacts
+2026-03-20 19:29:24 - DEBUG - Completed save_all
+2026-03-20 19:29:24 - INFO - Added contact: Rishabh
+2026-03-20 19:29:24 - DEBUG - Completed add
+2026-03-20 19:44:18 - DEBUG - Executing search_by_name
+2026-03-20 19:44:18 - DEBUG - Contact not found with name='Rishabhh'
+2026-03-20 19:44:18 - DEBUG - Completed search_by_name
+2026-03-20 19:45:20 - DEBUG - Executing search_by_name
+2026-03-20 19:45:20 - DEBUG - Contact found: Rishabh: 2065695829
+2026-03-20 19:45:20 - DEBUG - Completed search_by_name
+2026-03-20 19:45:51 - DEBUG - Executing update
+2026-03-20 19:45:51 - DEBUG - Executing save_all
+2026-03-20 19:45:51 - INFO - Saved 1 contacts
+2026-03-20 19:45:51 - DEBUG - Completed save_all
+2026-03-20 19:45:51 - INFO - Updated contact: rishabh
+2026-03-20 19:45:51 - DEBUG - Completed update
+2026-03-20 19:46:06 - DEBUG - Executing search_by_name
+2026-03-20 19:46:06 - DEBUG - Contact found: rishabh: 20656958290
+2026-03-20 19:46:06 - DEBUG - Completed search_by_name
+2026-03-20 19:46:25 - DEBUG - Executing search_by_name
+2026-03-20 19:46:25 - DEBUG - Contact found: rishabh: 20656958290
+2026-03-20 19:46:25 - DEBUG - Completed search_by_name
+2026-03-20 19:46:38 - DEBUG - Executing delete
+2026-03-20 19:46:38 - DEBUG - Executing save_all
+2026-03-20 19:46:38 - INFO - Saved 0 contacts
+2026-03-20 19:46:38 - DEBUG - Completed save_all
+2026-03-20 19:46:38 - INFO - Deleted contact: rishabh
+2026-03-20 19:46:38 - DEBUG - Completed delete
+2026-03-20 21:14:38 - DEBUG - Executing _load_contacts
+2026-03-20 21:14:38 - INFO - Loaded 0 contacts from storage
+2026-03-20 21:14:38 - DEBUG - Completed _load_contacts
+2026-03-20 21:15:33 - DEBUG - Executing add
+2026-03-20 21:15:33 - DEBUG - Executing _validate_contact
+2026-03-20 21:15:33 - DEBUG - Completed _validate_contact
+2026-03-20 21:15:33 - DEBUG - Executing save_all
+2026-03-20 21:15:33 - INFO - Saved 1 contacts
+2026-03-20 21:15:33 - DEBUG - Completed save_all
+2026-03-20 21:15:33 - INFO - Added contact: Rishbah
+2026-03-20 21:15:33 - DEBUG - Completed add
+2026-03-21 13:09:12 - DEBUG - Executing _load_contacts
+2026-03-21 13:09:12 - INFO - Loaded 1 contacts from storage
+2026-03-21 13:09:12 - DEBUG - Completed _load_contacts
+2026-03-21 13:30:41 - WARNING - Invalid email format: y
+2026-03-21 17:33:31 - DEBUG - Executing _load_contacts
+2026-03-21 17:33:31 - INFO - Loaded 1 contacts from storage
+2026-03-21 17:33:31 - DEBUG - Completed _load_contacts
+2026-03-21 17:36:13 - DEBUG - Executing _load_contacts
+2026-03-21 17:36:13 - INFO - Loaded 1 contacts from storage
+2026-03-21 17:36:13 - DEBUG - Completed _load_contacts
+2026-03-21 17:37:58 - DEBUG - Executing _load_contacts
+2026-03-21 17:37:58 - INFO - Loaded 1 contacts from storage
+2026-03-21 17:37:58 - DEBUG - Completed _load_contacts
+2026-03-21 17:38:44 - DEBUG - Executing _load_contacts
+2026-03-21 17:38:44 - INFO - Loaded 1 contacts from storage
+2026-03-21 17:38:44 - DEBUG - Completed _load_contacts
+2026-03-21 17:39:37 - DEBUG - Executing add
+2026-03-21 17:39:37 - DEBUG - Executing _validate_contact
+2026-03-21 17:39:37 - DEBUG - Completed _validate_contact
+2026-03-21 17:39:37 - DEBUG - Executing save_all
+2026-03-21 17:39:37 - INFO - Saved 2 contacts
+2026-03-21 17:39:37 - DEBUG - Completed save_all
+2026-03-21 17:39:37 - INFO - Added contact: Rishabh
+2026-03-21 17:39:37 - DEBUG - Completed add
+2026-03-21 17:41:07 - DEBUG - Executing _load_contacts
+2026-03-21 17:41:07 - INFO - Loaded 2 contacts from storage
+2026-03-21 17:41:07 - DEBUG - Completed _load_contacts
+2026-03-21 17:41:19 - WARNING - Invalid phone number format: +44 2938 4756 2
+2026-03-21 17:42:21 - DEBUG - Executing _load_contacts
+2026-03-21 17:42:21 - INFO - Loaded 2 contacts from storage
+2026-03-21 17:42:21 - DEBUG - Completed _load_contacts
+2026-03-21 17:42:40 - DEBUG - Executing add
+2026-03-21 17:42:40 - DEBUG - Executing _validate_contact
+2026-03-21 17:42:40 - DEBUG - Completed _validate_contact
+2026-03-21 17:42:40 - DEBUG - Executing save_all
+2026-03-21 17:42:40 - INFO - Saved 3 contacts
+2026-03-21 17:42:40 - DEBUG - Completed save_all
+2026-03-21 17:42:40 - INFO - Added contact: Arthur
+2026-03-21 17:42:40 - DEBUG - Completed add
+2026-03-21 17:55:07 - DEBUG - Executing _load_contacts
+2026-03-21 17:55:07 - INFO - Loaded 3 contacts from storage
+2026-03-21 17:55:07 - DEBUG - Completed _load_contacts
+2026-03-21 17:56:46 - WARNING - Invalid email format: 0
+2026-03-21 17:57:26 - WARNING - Invalid email format: 0
+2026-03-22 12:39:22 - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2026-03-22 12:39:22 - INFO - Logger: Record log in C:\Users\asus\.kivy\logs\kivy_26-03-22_1.txt
+2026-03-22 12:39:22 - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2026-03-22 12:39:22 - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.8.0
+2026-03-22 12:39:22 - INFO - Kivy: v2.3.1
+2026-03-22 12:39:22 - INFO - Kivy: Installed at "D:\Python\programs\Contact_Book\.venv\Lib\site-packages\kivy\__init__.py"
+2026-03-22 12:39:22 - INFO - Python: v3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2026-03-22 12:39:22 - INFO - Python: Interpreter at "D:\Python\programs\Contact_Book\.venv\Scripts\python.exe"
+2026-03-22 12:39:22 - INFO - Logger: Purge log fired. Processing...
+2026-03-22 12:39:22 - INFO - Logger: Purge finished!
+2026-03-22 12:39:22 - DEBUG - Executing _load_contacts
+2026-03-22 12:39:22 - INFO - Loaded 3 contacts from storage
+2026-03-22 12:39:22 - DEBUG - Completed _load_contacts
+2026-03-22 12:41:47 - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2026-03-22 12:41:47 - INFO - Logger: Record log in C:\Users\asus\.kivy\logs\kivy_26-03-22_2.txt
+2026-03-22 12:41:47 - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2026-03-22 12:41:47 - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.8.0
+2026-03-22 12:41:47 - INFO - Kivy: v2.3.1
+2026-03-22 12:41:47 - INFO - Kivy: Installed at "D:\Python\programs\Contact_Book\.venv\Lib\site-packages\kivy\__init__.py"
+2026-03-22 12:41:47 - INFO - Python: v3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2026-03-22 12:41:47 - INFO - Python: Interpreter at "D:\Python\programs\Contact_Book\.venv\Scripts\python.exe"
+2026-03-22 12:41:47 - INFO - Logger: Purge log fired. Processing...
+2026-03-22 12:41:47 - INFO - Logger: Purge finished!
+2026-03-22 12:41:47 - INFO - Factory: 195 symbols loaded
+2026-03-22 12:41:47 - INFO - Image: Providers: img_tex, img_dds, img_sdl2 (img_pil, img_ffpyplayer ignored)
+2026-03-22 12:41:48 - INFO - Text: Provider: sdl2
+2026-03-22 12:41:48 - DEBUG - Executing _load_contacts
+2026-03-22 12:41:48 - INFO - Loaded 3 contacts from storage
+2026-03-22 12:41:48 - DEBUG - Completed _load_contacts
+2026-03-22 12:41:48 - INFO - Window: Provider: sdl2
+2026-03-22 12:41:49 - INFO - GL: Using the "OpenGL" graphics system
+2026-03-22 12:41:49 - INFO - GL: GLEW initialization succeeded
+2026-03-22 12:41:49 - INFO - GL: Backend used <glew>
+2026-03-22 12:41:49 - INFO - GL: OpenGL version <b'4.6.0 - Build 31.0.101.4255'>
+2026-03-22 12:41:49 - INFO - GL: OpenGL vendor <b'Intel'>
+2026-03-22 12:41:49 - INFO - GL: OpenGL renderer <b'Intel(R) UHD Graphics'>
+2026-03-22 12:41:49 - INFO - GL: OpenGL parsed version: 4, 6
+2026-03-22 12:41:49 - INFO - GL: Shading version <b'4.60 - Build 31.0.101.4255'>
+2026-03-22 12:41:49 - INFO - GL: Texture max size <16384>
+2026-03-22 12:41:49 - INFO - GL: Texture max units <32>
+2026-03-22 12:41:49 - INFO - Window: auto add sdl2 input provider
+2026-03-22 12:41:49 - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2026-03-22 12:41:49 - INFO - Base: Start application main loop
+2026-03-22 12:41:49 - INFO - GL: NPOT texture support is available
+2026-03-22 12:42:32 - INFO - Base: Leaving application in progress...
+2026-03-22 12:50:46 - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2026-03-22 12:50:46 - INFO - Logger: Record log in C:\Users\asus\.kivy\logs\kivy_26-03-22_3.txt
+2026-03-22 12:50:46 - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2026-03-22 12:50:46 - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.8.0
+2026-03-22 12:50:46 - INFO - Kivy: v2.3.1
+2026-03-22 12:50:46 - INFO - Kivy: Installed at "D:\Python\programs\Contact_Book\.venv\Lib\site-packages\kivy\__init__.py"
+2026-03-22 12:50:46 - INFO - Python: v3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2026-03-22 12:50:46 - INFO - Python: Interpreter at "D:\Python\programs\Contact_Book\.venv\Scripts\python.exe"
+2026-03-22 12:50:46 - INFO - Logger: Purge log fired. Processing...
+2026-03-22 12:50:46 - INFO - Logger: Purge finished!
+2026-03-22 12:50:46 - INFO - Factory: 195 symbols loaded
+2026-03-22 12:50:46 - INFO - Image: Providers: img_tex, img_dds, img_sdl2 (img_pil, img_ffpyplayer ignored)
+2026-03-22 12:50:46 - INFO - Text: Provider: sdl2
+2026-03-22 12:50:46 - DEBUG - Executing _load_contacts
+2026-03-22 12:50:46 - INFO - Loaded 3 contacts from storage
+2026-03-22 12:50:46 - DEBUG - Completed _load_contacts
+2026-03-22 12:50:46 - INFO - Window: Provider: sdl2
+2026-03-22 12:50:47 - INFO - GL: Using the "OpenGL" graphics system
+2026-03-22 12:50:47 - INFO - GL: GLEW initialization succeeded
+2026-03-22 12:50:47 - INFO - GL: Backend used <glew>
+2026-03-22 12:50:47 - INFO - GL: OpenGL version <b'4.6.0 - Build 31.0.101.4255'>
+2026-03-22 12:50:47 - INFO - GL: OpenGL vendor <b'Intel'>
+2026-03-22 12:50:47 - INFO - GL: OpenGL renderer <b'Intel(R) UHD Graphics'>
+2026-03-22 12:50:47 - INFO - GL: OpenGL parsed version: 4, 6
+2026-03-22 12:50:47 - INFO - GL: Shading version <b'4.60 - Build 31.0.101.4255'>
+2026-03-22 12:50:47 - INFO - GL: Texture max size <16384>
+2026-03-22 12:50:47 - INFO - GL: Texture max units <32>
+2026-03-22 12:50:47 - INFO - Window: auto add sdl2 input provider
+2026-03-22 12:50:47 - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2026-03-22 12:50:47 - INFO - Base: Start application main loop
+2026-03-22 12:50:47 - INFO - GL: NPOT texture support is available
+2026-03-22 12:50:53 - INFO - Base: Leaving application in progress...
+2026-03-22 13:11:27 - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2026-03-22 13:11:27 - INFO - Logger: Record log in C:\Users\asus\.kivy\logs\kivy_26-03-22_4.txt
+2026-03-22 13:11:27 - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2026-03-22 13:11:27 - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.8.0
+2026-03-22 13:11:27 - INFO - Kivy: v2.3.1
+2026-03-22 13:11:27 - INFO - Kivy: Installed at "D:\Python\programs\Contact_Book\.venv\Lib\site-packages\kivy\__init__.py"
+2026-03-22 13:11:27 - INFO - Python: v3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2026-03-22 13:11:27 - INFO - Python: Interpreter at "D:\Python\programs\Contact_Book\.venv\Scripts\python.exe"
+2026-03-22 13:11:27 - INFO - Logger: Purge log fired. Processing...
+2026-03-22 13:11:27 - INFO - Logger: Purge finished!
+2026-03-22 13:11:27 - INFO - Factory: 195 symbols loaded
+2026-03-22 13:11:27 - INFO - Image: Providers: img_tex, img_dds, img_sdl2 (img_pil, img_ffpyplayer ignored)
+2026-03-22 13:11:27 - INFO - Text: Provider: sdl2
+2026-03-22 13:11:27 - INFO - Window: Provider: sdl2
+2026-03-22 13:11:27 - INFO - GL: Using the "OpenGL" graphics system
+2026-03-22 13:11:27 - INFO - GL: GLEW initialization succeeded
+2026-03-22 13:11:27 - INFO - GL: Backend used <glew>
+2026-03-22 13:11:27 - INFO - GL: OpenGL version <b'4.6.0 - Build 31.0.101.4255'>
+2026-03-22 13:11:27 - INFO - GL: OpenGL vendor <b'Intel'>
+2026-03-22 13:11:27 - INFO - GL: OpenGL renderer <b'Intel(R) UHD Graphics'>
+2026-03-22 13:11:27 - INFO - GL: OpenGL parsed version: 4, 6
+2026-03-22 13:11:27 - INFO - GL: Shading version <b'4.60 - Build 31.0.101.4255'>
+2026-03-22 13:11:27 - INFO - GL: Texture max size <16384>
+2026-03-22 13:11:27 - INFO - GL: Texture max units <32>
+2026-03-22 13:11:27 - INFO - Window: auto add sdl2 input provider
+2026-03-22 13:11:27 - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2026-03-22 13:11:27 - DEBUG - Executing _load_contacts
+2026-03-22 13:11:27 - INFO - Loaded 3 contacts from storage
+2026-03-22 13:11:27 - DEBUG - Completed _load_contacts
+2026-03-22 13:11:27 - INFO - GL: NPOT texture support is available
+2026-03-22 13:11:27 - INFO - Base: Start application main loop
+2026-03-22 13:12:02 - DEBUG - Executing update
+2026-03-22 13:12:02 - DEBUG - Executing save_all
+2026-03-22 13:12:02 - INFO - Saved 3 contacts
+2026-03-22 13:12:02 - DEBUG - Completed save_all
+2026-03-22 13:12:02 - INFO - Updated contact: Adam
+2026-03-22 13:12:02 - DEBUG - Completed update
+2026-03-22 13:12:15 - DEBUG - Executing delete
+2026-03-22 13:12:15 - DEBUG - Executing save_all
+2026-03-22 13:12:15 - INFO - Saved 2 contacts
+2026-03-22 13:12:15 - DEBUG - Completed save_all
+2026-03-22 13:12:15 - INFO - Deleted contact: Rishbah
+2026-03-22 13:12:15 - DEBUG - Completed delete
+2026-03-22 13:13:16 - INFO - Base: Leaving application in progress...
